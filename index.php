@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include '/head.php' ?>
+    <?php include '/home/forge/default/public/head.php' ?>
     <title>Test page</title>
 </head>
 <body>
