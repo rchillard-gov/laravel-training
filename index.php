@@ -25,6 +25,15 @@
 </nav>
     <h1>Welcome to our Test Application</h1>
     <p>Let's see if this page will actually render</p>
+    <footer class="page-footer font-small indigo">
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2018 Copyright:
+      <a href="#">SBA - Git Training</a>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
 </body>
 </html>
 <img src="/classpic.jpg" class="img-fluid" alt="Responsive image">
