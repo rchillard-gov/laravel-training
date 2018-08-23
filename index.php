@@ -12,12 +12,13 @@
 </head>
 <body>
 <nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">Test Application</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="/index.php">Home</a></li>
+  <a class="navbar-brand" href="#">Office of Financial Systems</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active"><a class="nav-link" href="/index.php">Home</a></li>
       <li><a href="/Attendance/attendance.html">Click Here to Attend the Group</a></li>
       <li><a href="/curriculum.html">Curriculum</a></li>
       <li><a href="/resources.html">Resources</a></li>
