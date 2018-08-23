@@ -20,7 +20,7 @@
       <li class="active"><a href="#">Home</a></li>
       <li><a href="/Attendance/attendance.html">Click Here to 
 Attend the Group</a></li>
-      <li><a href="#">Page 2</a></li>
+      <li><a href="resources.html">Git resources</a></li>
       <li><a href="#">Page 3</a></li>
       <li><a href="#">Page 4</a></li>
     </ul>
