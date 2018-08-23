@@ -9,6 +9,7 @@
 	<script src="/docs/4.0/assets/js/vendor/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="/docs/4.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <title>Test page</title>
+
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -37,8 +38,15 @@
 
     <h1>Welcome to our Test Application</h1>
     <p>Let's see if this page will actually render</p>
-<img src="/classpic.jpg" width="1366" height="768" title="Logo of a
-company" alt="Logo of a company" />
+    <footer class="page-footer font-small indigo">
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2018 Copyright:
+      <a href="#">SBA - Git Training</a>
+    </div>
+    <!-- Copyright -->
 
+  </footer>
+  <!-- Footer -->
 </body>
 </html>
+<img src="/classpic.jpg" class="img-fluid" alt="Responsive image">
