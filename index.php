@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <header("content-type: image/classpic.jpg");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -11,17 +9,21 @@
     <title>Test page</title>
 </head>
 <body>
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">Test Application</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="/Attendance/attendance.html">Click Here to Attend the Group</a></li>
-      <li><a href="#">Page 2</a></li>
-      <li><a href="#">Page 3</a></li>
-      <li><a href="#">Page 4</a></li>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="resources.html">Git Resources</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Placeholder Link #3</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Placeholder Link #4</a>
+      </li>
     </ul>
   </div>
 </nav>
