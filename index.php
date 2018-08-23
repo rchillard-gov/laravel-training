@@ -17,12 +17,10 @@
       <a class="navbar-brand" href="#">Test Application</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="/Attendance/attendance.html">Click Here to 
-Attend the Group</a></li>
-      <li><a href="#">Page 2</a></li>
-      <li><a href="#">Page 3</a></li>
-      <li><a href="#">Page 4</a></li>
+      <li class="active"><a href="/index.php">Home</a></li>
+      <li><a href="/Attendance/attendance.html">Click Here to Attend the Group</a></li>
+      <li><a href="/curriculum.html">Curriculum</a></li>
+      <li><a href="/resources.html">Resources</a></li>
     </ul>
   </div>
 </nav>
